@@ -2,6 +2,10 @@
 
 Turns your Kindle library into a bookcase image you can use as a Google Meet background.
 
+![A 1970s-style room with a wooden bookcase of real Kindle books, a lava lamp, macramé plant hangers and a rattan chair](docs/sample-70s.jpg)
+
+*Made with `kindle-wallpaper generate --theme 70s`.*
+
 ## Setup
 
 ```sh

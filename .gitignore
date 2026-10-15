@@ -3,5 +3,6 @@
 data/
 *.jpg
 *.png
+!docs/*.jpg
 .venv/
 __pycache__/
