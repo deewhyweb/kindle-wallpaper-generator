@@ -6,6 +6,10 @@ Turns your Kindle library into a bookcase image you can use as a Google Meet bac
 
 *Made with `kindle-wallpaper generate --theme 70s`.*
 
+![A cosy cottage sitting room with a painted bookcase of real Kindle books, a floral armchair with a knitted throw, a brass reading lamp, wildflowers and geraniums on the windowsill](docs/sample-cottage.jpg)
+
+*A cosy cottage: `kindle-wallpaper generate --theme cottage`.*
+
 ## Setup
 
 ```sh
