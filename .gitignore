@@ -1,0 +1,7 @@
+# Browser profile holds your Amazon session cookies -- never commit it
+.browser-profile/
+data/
+*.jpg
+*.png
+.venv/
+__pycache__/
